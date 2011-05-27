@@ -1019,13 +1019,13 @@ div.baconplayer{height:40px;}
 #forkqueue #finalize{text-align:center;}
 #forkqueue .instructions{border:1px solid #ddd;background:#eee;padding:8px;color:#333;font-size:13px;margin:20px 0 8px 0;}
 #header{margin:0 auto 0 auto;width:958px;height:91px;min-width:950px;}
-#header .logo{display:block;position:relative;left:-6px;}
-#header .logo.boring{left:20px;top:14px;}
-#header .logo img{position:absolute;top:0;left:0;-webkit-transition:opacity .25s linear;-moz-transition:opacity .25s linear;}
-#header .logo img.hover{opacity:0;}
-#header .logo:hover img.hover{opacity:1;}
-#header .logo img.default{opacity:1;}
-#header .logo:hover img.default{opacity:0;}
+/* #header .logo{display:block;position:relative;left:-6px;} */
+/* #header .logo.boring{left:20px;top:14px;} */
+/* #header .logo img{position:absolute;top:0;left:0;-webkit-transition:opacity .25s linear;-moz-transition:opacity .25s linear;} */
+/* #header .logo img.hover{opacity:0;} */
+/* #header .logo:hover img.hover{opacity:1;} */
+/* #header .logo img.default{opacity:1;} */
+/* #header .logo:hover img.default{opacity:0;} */
 ul.nav{margin:3px 0 0 0;white-space:nowrap;font-size:11px;}
 ul.nav li{list-style-type:none;display:inline;margin:0 15px 0 0;}
 ul.nav.logged_out{padding:8px 3px 8px 2px;font-size:12px;font-weight:bold;text-shadow:1px 1px 0 #fff;overflow:auto;}
